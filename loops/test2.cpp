@@ -2,6 +2,6 @@
 
 int main() {
 while(1<2) {
-    std::cout << "Hello World!";
+    std::cout << "Hello World!\n";
     }
 }
